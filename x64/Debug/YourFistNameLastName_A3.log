@@ -1,0 +1,6 @@
+﻿  Application.cpp
+C:\Users\GNG\source\repos\YourFistNameLastName_A3\Application.cpp(507,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dice.cpp
+  Generating Code...
+C:\Users\GNG\source\repos\YourFistNameLastName_A3\Application.cpp(366): warning C4715: 'singles': not all control paths return a value
+  YourFistNameLastName_A3.vcxproj -> C:\Users\GNG\source\repos\YourFistNameLastName_A3\x64\Debug\YourFistNameLastName_A3.exe
